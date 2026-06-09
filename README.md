@@ -247,7 +247,7 @@ plot_auc_bars(aucs)
 **Areeba Mumtaz Minhas**  
 4th Year Software Engineering · PUCIT, University of the Punjab · Lahore, Pakistan
 
-- 🔗 [LinkedIn](www.linkedin.com/in/areeba-mumtaz-minhas-2779a8301)
+- 🔗 [LinkedIn](www.linkedin.com/in/areeba-mumtaz-minhas-2779a8301/)
 - 🐙 [GitHub](https://github.com/Areeba-433)
 
 ---
